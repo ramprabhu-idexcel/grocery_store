@@ -1,0 +1,8 @@
+Metrics/LineLength:
+  Max: 150
+Layout/EmptyLineAfterGuardClause:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Metrics/AbcSize:
+  Enabled: false
